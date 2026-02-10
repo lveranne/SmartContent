@@ -1,7 +1,6 @@
 ## SmartContent
 
-SmartContent is an application designed to help you **create, manage, and optimize digital content** more efficiently.  
-It centralizes your content in one place and provides smarter tools to organize and work with it.
+This project implements a high-performance big data architecture to manage massive multimedia catalogs. It combines a User-Based Collaborative Filtering engine with an AI-driven Chatbot to provide highly personalized recommendations for movies, books, and music.
 
 
 ## 📊 Project Demo
