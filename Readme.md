@@ -47,12 +47,6 @@ These are generic steps; adapt the commands to your tech stack.
 
 1. **Clone the repository**
 
-   
-
-### Installation
-
-1. **Clone the repository**
-
    git clone https://github.com/<your-username>/SmartContent.git
    cd SmartContent
    
