@@ -1,5 +1,7 @@
 # SmartContent
 
+![SmartContent with AI recommendations](docs/images/chat.png)
+
 **SmartContent** is a high-performance multimedia recommendation platform that combines a **User-Based Collaborative Filtering (UBCF)** engine with an **AI-driven chatbot** to deliver personalized suggestions across **movies**, **video games**, **music**, and **books**. The application follows a Spotify-inspired interface and is designed to scale with large multimedia catalogs through a decoupled frontend/backend architecture.
 
 > **Repository note:** This checkout includes the **React frontend** and backend **dependency templates** (`backend/requirements.txt`, `backend/setup.py`). The Python API server that powers recommendations is expected to run separately on port `5000`. See [Reproduction Guide](#reproduction-guide) for the full setup.
@@ -32,7 +34,7 @@ Watch the full project walkthrough:
 
 ### UI Preview
 
-![SmartContent UI mockup — Spotify-style multimedia dashboard with AI recommendations](docs/images/ui-mockup.png)
+![SmartContent UI mockup — Spotify-style multimedia dashboard with AI recommendations](docs/images/home1.png)
 
 ---
 
