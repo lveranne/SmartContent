@@ -1,6 +1,6 @@
 # SmartContent
 
-![SmartContent with AI recommendations](docs/images/chat.png)
+![SmartContent with AI recommendations](docs/images/chat.PNG)
 
 **SmartContent** is a high-performance multimedia recommendation platform that combines a **User-Based Collaborative Filtering (UBCF)** engine with an **AI-driven chatbot** to deliver personalized suggestions across **movies**, **video games**, **music**, and **books**. The application follows a Spotify-inspired interface and is designed to scale with large multimedia catalogs through a decoupled frontend/backend architecture.
 
@@ -34,7 +34,7 @@ Watch the full project walkthrough:
 
 ### UI Preview
 
-![SmartContent UI mockup — Spotify-style multimedia dashboard with AI recommendations](docs/images/home1.png)
+![SmartContent UI mockup — Spotify-style multimedia dashboard with AI recommendations](docs/images/home1.PNG)
 
 ---
 
